@@ -9,13 +9,6 @@
 
 **소속 :** 멀티캠퍼스  데이터 시각화 & 분석반(Python)
 
-**활용 데이터 :** 
-
-| 정보 | 형태 | 크기 | 수집 방안 | 출처 |
-| --- | --- | --- | --- | --- |
-| 서울시 지하철 호선별 역별 시간대별 승하차 인원 정보.csv | 정형(csv) | 2,961,504개(56,952,52) | 서울 열린데이터 광장 | http://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do |
-| 서울시 도시철도역사 지하상가 임대 현황_2022.csv | 정형(csv) | 15860개            (1586,10) | 서울 열린데이터 광장 | https://data.seoul.go.kr/dataList/OA-21305/S/1/datasetView.do |
-
 **(1) 코드(GitHub)**
 
 [서울시 지하철 상권 분석 프로젝트](https://github.com/YoungMinDA/Team_project/tree/main/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A7%80%ED%95%98%EC%B2%A0%20%EC%83%81%EA%B6%8C%20%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
